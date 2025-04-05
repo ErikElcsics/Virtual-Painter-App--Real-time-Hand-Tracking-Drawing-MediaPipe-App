@@ -27,7 +27,7 @@ To run this project, you'll need to install the following dependencies:
 
 1. Clone this repository:
    
-   git clone https://github.com/your-username/virtual-painter.git
+   git clone https://github.com/ErikElcsics/Virtual-Painter-App--Real-time-Hand-Tracking-Drawing-MediaPipe-App.git
    
 
 2. Navigate into the project directory:
@@ -42,10 +42,8 @@ To run this project, you'll need to install the following dependencies:
 
 4. Run the application:
    
-   python app.py
+   python VirtualPainterApp.py
    
-
-
 
 ## How the Code Works
 
